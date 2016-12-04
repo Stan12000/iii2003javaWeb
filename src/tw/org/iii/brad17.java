@@ -7,9 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Servlet implementation class brad17
- */
+
 @WebServlet("/brad17")
 public class brad17 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
